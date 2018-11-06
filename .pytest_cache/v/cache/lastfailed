@@ -1,0 +1,10 @@
+{
+  "test/index_test.py::TestAssociationObject::test_artists": true,
+  "test/index_test.py::TestAssociationObject::test_artists_have_many_genres": true,
+  "test/index_test.py::TestAssociationObject::test_artists_have_many_songs": true,
+  "test/index_test.py::TestAssociationObject::test_genres": true,
+  "test/index_test.py::TestAssociationObject::test_genres_have_many_artists": true,
+  "test/index_test.py::TestAssociationObject::test_genres_have_many_songs": true,
+  "test/index_test.py::TestAssociationObject::test_queries_experimenting": true,
+  "test/index_test.py::TestAssociationObject::test_songs": true
+}
